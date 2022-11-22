@@ -13,7 +13,7 @@ The List of all the problems I solved on Geeks for Geeks. I have solved these pr
 
 ### Hard
 
-## Linked List
+<!-- ## Linked List
 ### Easy
 
 ### Medium
@@ -70,4 +70,4 @@ The List of all the problems I solved on Geeks for Geeks. I have solved these pr
 ### Hard
 
 
-
+ -->
