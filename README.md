@@ -1,5 +1,5 @@
-# Geeks for Geeks Practice - https://www.geeksforgeeks.org/
-
+# Geeks for Geeks Practice
+The List of all the problems I solved on Geeks for Geeks. I have solved these problems in C++ and Python. I have also added the link to the problem statement and the solution code.
 
 ## Arrays
 ### Easy
