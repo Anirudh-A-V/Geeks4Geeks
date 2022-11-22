@@ -1,72 +1,71 @@
 # Geeks for Geeks Practice - https://www.geeksforgeeks.org/
 
-## Data Structures
 
-### Arrays
-#### Easy
+## Arrays
+### Easy
 1. 
 
-#### Medium
+### Medium
 1. [Kandane's Algorithm](./Arrays/Kandane's_Algorithm.cpp)
 
 
-#### Hard
+### Hard
 
-### Linked List
-#### Easy
+## Linked List
+### Easy
 
-#### Medium
+### Medium
 
-#### Hard
+### Hard
 
-### Stack
-#### Easy
+## Stack
+### Easy
 
-#### Medium
+### Medium
 
-#### Hard
+### Hard
 
-### Queue
-#### Easy
+## Queue
+### Easy
 
-#### Medium
+### Medium
 
-#### Hard
+### Hard
 
-### Binary Tree
-#### Easy
+## Binary Tree
+### Easy
 
-#### Medium
+### Medium
 
-#### Hard
+### Hard
 
-### Binary Search Tree
-#### Easy
+## Binary Search Tree
+### Easy
 
-#### Medium
+### Medium
 
-#### Hard
+### Hard
 
-### Heap
-#### Easy
+## Heap
+### Easy
 
-#### Medium
+### Medium
 
-#### Hard
+### Hard
 
-### Hashing
-#### Easy
+## Hashing
+### Easy
 
-#### Medium
+### Medium
 
-#### Hard
+### Hard
 
-### Graph
-#### Easy
+## Graph
+### Easy
 
-#### Medium
+### Medium
 
-#### Hard
+### Hard
 
 
 
