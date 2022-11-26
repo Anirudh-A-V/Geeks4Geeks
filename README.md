@@ -7,6 +7,7 @@ The List of all the problems I solved on Geeks for Geeks. I have solved these pr
 2. [Missing number in an array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1) -- [Solution](./Arrays/Missing_number_in_array.cpp)
 3. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) -- [Solution](./Arrays/Subarray_with_given_sum.cpp)
 4. [Binary Search](https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1) -- [Solution](./Arrays/Binary_Search.cpp)
+5. [Reverse Array in Groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) -- [Solution](./Arrays/Reverse_Array_in_groups.cpp)
 
 ### Medium
 1. [Kandane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) -- [Solution](./Arrays/Kandane's_Algorithm.cpp)
